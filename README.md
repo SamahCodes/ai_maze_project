@@ -74,8 +74,8 @@ To receive help from the AI, the player must solve a **sliding tile puzzle (N-Pu
 
 📺 Watch the project in action:
 
-🔗 Demo / Presentation Video:
-Click here to watch
+🔗 Demo / Presentation Video:https://drive.google.com/file/d/1aXDl2225xf7LLFhMS_8o6JOYybai4UNM/view?usp=sharing
+[Click here to watch][https://drive.google.com/file/d/1aXDl2225xf7LLFhMS_8o6JOYybai4UNM/view?usp=sharing]
 ---
 
 ## 🏗️ Project Structure
